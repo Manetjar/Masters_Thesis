@@ -9,4 +9,4 @@ If the code is not visible here, it is a good chance that I am doing a better do
 
 **Tarkastajalle**
 
-Jos tarvitsette koodia Gradun arviointiin, niin laittakaa viestiä opiskelija sähköposti osoitteeseen. 
+Jos koodi ei ole näkyvillä ja tarvitsette sitä Gradun arviointiin, niin laittakaa viestiä opiskelija sähköposti osoitteeseen.
