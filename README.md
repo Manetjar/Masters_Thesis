@@ -8,6 +8,7 @@ GitHubin käyttö ei ole vielä täysin tuttua, niin selvittelen tässä miten k
 
 Myös tulevat versiot koodista tulee tänne, tai ainakin linkit toiseen kansioon. 
 
+Työn alla, työn alla... 
 
 -------------
 
@@ -17,3 +18,6 @@ This repository will eventually include the self-written test-particle simulatio
 The use of GitHub is not that familiar to me, so I am figuring out how to use this properly. I aim to upload additional material, images and videos, of the simulation runs. Problem with videos is their large size, thus I had to downgrade the quality of videos. Also, the videos did not play directly on this site, but I had to download them on my PC first. 
 
 Future versions of the code will be uploaded here, or at least the link to a different  repository will be here.
+
+
+Work in progress...
